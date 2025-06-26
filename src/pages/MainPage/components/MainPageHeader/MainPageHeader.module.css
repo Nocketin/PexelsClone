@@ -1,0 +1,48 @@
+.main_page_header {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+
+.author_link {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  text-decoration: none;
+  color: white;
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.8);
+}
+
+.author_title {
+  color: rgb(174, 172, 172);
+}
+
+.header_title {
+  color: white;
+  width: 630px;
+  font-size: 36px;
+  line-height: 130%;
+  letter-spacing: -2px;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8);
+}
+
+.navbar{
+  width: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  top: 10px;
+  padding: 5px 20px;
+  color: white;
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.8) ;
+  font-size: 24px;
+}
+
