@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PexelsClone/static/css/main.b7fa61d9.css",
-    "main.js": "/PexelsClone/static/js/main.d2ff0439.js",
-    "static/media/download_icon.svg": "/PexelsClone/static/media/download_icon.86306938ac77bf37903feb1eb66f21d3.svg",
-    "static/media/heart-thin-icon.svg": "/PexelsClone/static/media/heart-thin-icon.f7ab74bf5262c82356fb4408385e89eb.svg",
-    "static/media/box_icon.svg": "/PexelsClone/static/media/box_icon.01c67dbd33d090d06c2646563c12dca2.svg",
+    "main.css": "/PexelsClone/static/css/main.4b0095bf.css",
+    "main.js": "/PexelsClone/static/js/main.c0d19ed9.js",
     "static/media/search_icon.svg": "/PexelsClone/static/media/search_icon.44f60478300613ca5b0ba36d1a080550.svg",
+    "static/media/favorite.svg": "/PexelsClone/static/media/favorite.c03d5021761f1b21c8ad20e5be11d265.svg",
     "index.html": "/PexelsClone/index.html",
+    "static/media/collection.svg": "/PexelsClone/static/media/collection.889482a78331b2f18f2407b4adee0cc6.svg",
     "static/media/red-heart-icon.svg": "/PexelsClone/static/media/red-heart-icon.db5f2c5f77bae45dfa1986fa8b9fc6c7.svg",
-    "main.b7fa61d9.css.map": "/PexelsClone/static/css/main.b7fa61d9.css.map",
-    "main.d2ff0439.js.map": "/PexelsClone/static/js/main.d2ff0439.js.map"
+    "static/media/download.svg": "/PexelsClone/static/media/download.d1cff803a189a9ccb7236bb1e1c96950.svg",
+    "main.4b0095bf.css.map": "/PexelsClone/static/css/main.4b0095bf.css.map",
+    "main.c0d19ed9.js.map": "/PexelsClone/static/js/main.c0d19ed9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7fa61d9.css",
-    "static/js/main.d2ff0439.js"
+    "static/css/main.4b0095bf.css",
+    "static/js/main.c0d19ed9.js"
   ]
 }
